@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, SQL, Power BI, Machine Learning**
 
-- 📫 How to reach me **ankitpal154@gmail.com**
+- 📫 How to reach me **ankitpalwork2310@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
